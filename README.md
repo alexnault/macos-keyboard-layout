@@ -6,6 +6,6 @@ You can modify the source file using [Ukulele](https://scripts.sil.org/cms/scrip
 
 ## Installation
 
-1. Copy [anault.keylayout](https://github.com/anault/macos-keyboard-layout/blob/master/anault.keylayout) into your `/Users/[username]/Library/Keyboard Layouts/`
+1. Copy [anault.bundle](https://github.com/anault/macos-keyboard-layout/blob/master/anault.bundle) into your `/Users/[username]/Library/Keyboard Layouts/`
 2. Got into System Preferences > Keyboard > Input Sources > + > Others > anault > Add
-3. Choose anault as current keyboard layout from the MacOS menu bar 
+3. Choose anault as current keyboard layout from the MacOS menu bar
