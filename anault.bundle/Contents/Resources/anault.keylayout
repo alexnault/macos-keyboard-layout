@@ -640,16 +640,20 @@
             <key code="28" output="•"/>
             <key code="29" output="º"/>
             <key code="30" output="‘"/>
-            <key code="31" output="Ø"/>
+            <!-- <key code="31" output="Ø"/> -->
+            <key code="31" action="2"/>
             <key code="32" output="¨"/>
             <key code="33" output="“"/>
             <key code="34" output="ˆ"/>
-            <key code="35" output="∏"/>
+            <!-- <key code="35" output="∏"/> -->
+            <key code="35" action="16"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="Ò"/>
+            <!-- <key code="37" output="Ò"/> -->
+            <key code="37" action="18"/>
             <key code="38" output="Ô"/>
             <key code="39" output="Æ"/>
-            <key code="40" output="˚"/>
+            <!-- <key code="40" output="˚"/> -->
+            <key code="40" action="13"/>
             <key code="41" output="…"/>
             <key code="42" output="«"/>
             <key code="43" output="≤"/>
