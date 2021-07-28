@@ -1,6 +1,6 @@
 # macos-keyboard-layout
 
-This is essentially an **English US** keyboard layout suited for **french accents**. All dead keys are hidden behind the Alt modifier. In other words, this is an **English US International** keyboard layout without the dead key annoyance on characters such as `'`, `` ` ``, etc..
+This is essentially an **English US** keyboard layout suited for **french accents**. All dead keys are hidden behind the `Option` modifier. In other words, this is an **English US International** keyboard layout without the dead key annoyance on characters such as `'`, `` ` ``, etc..
 
 You can modify the source file using [Ukulele](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
 
