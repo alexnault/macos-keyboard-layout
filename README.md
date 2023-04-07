@@ -8,9 +8,18 @@ When pressing the `Option` modifier, the layout becomes:
 
 ![English US layout](/assets/layout-modifier.png)
 
-And then you can press whatver letter you want
+And then pressing a letter will produce the accentued version of it, e.g.:
 
-In other words, this is an **English US International** keyboard layout without the dead key annoyance on characters such as `'`, `` ` ``, etc.
+```text
+` + e => è
+' + e => é
+^ + e => ê
+¨ + e => ë
+
+and also
+
+' + c => ç
+```
 
 ## Installation
 
@@ -20,4 +29,4 @@ In other words, this is an **English US International** keyboard layout without 
 
 ## Customizing
 
-You can modify the source file using [Ukulele](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
+You can modify the source file using [Ukulele](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) to fit your needs.
