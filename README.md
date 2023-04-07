@@ -6,7 +6,7 @@ This is an **English US** keyboard layout suited for **french accents**. All dea
 
 When pressing the `Option` modifier, the layout becomes:
 
-![English US layout](/assets/layout-modifier.png)
+![English US layout](/assets/layout-option.png)
 
 And then pressing a letter will produce the accentued version of it, e.g.:
 
