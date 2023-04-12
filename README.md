@@ -23,9 +23,16 @@ and also
 
 ## Installation
 
-1. Copy [anault.bundle](https://github.com/anault/macos-keyboard-layout/blob/master/anault.bundle) into your `/Users/[username]/Library/Keyboard Layouts/`
-2. Got into System Preferences > Keyboard > Input Sources > + > English > anault > Add
-3. Choose anault as current keyboard layout from the MacOS menu bar
+1. Clone the repo and copy `/anault.bundle` into your keyboard layouts directory:
+
+```bash
+git clone https://github.com/alexnault/macos-keyboard-layout.git ~/macos-keyboard-layout && \cp -R ~/macos-keyboard-layout/anault.bundle ~/'Library/Keyboard Layouts' && rm -rf ~/macos-keyboard-layout
+```
+
+2. Go into System Settings > Keyboard > Text Input > Edit… > + > English > anault > Add
+3. Choose `anault` as your current keyboard layout from the MacOS menu bar on the top right
+
+If at any steps the layout is not showing, simply restart your mac.
 
 ## Customizing
 
